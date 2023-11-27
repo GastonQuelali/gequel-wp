@@ -1,0 +1,10 @@
+# Ignore archivos y directorios específicos de WordPress
+/wp-content/uploads/
+/wp-content/cache/
+/.htaccess
+/wp-config.php
+
+# Ignore archivos y directorios específicos de LocalWP
+/.wp-env/
+/.local/
+/database.sql
